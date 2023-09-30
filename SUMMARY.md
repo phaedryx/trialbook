@@ -1,3 +1,3 @@
 # Table of contents
 
-* [trialbook](README.md)
+* [Introduction](README.md)
