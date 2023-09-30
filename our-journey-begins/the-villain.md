@@ -38,9 +38,7 @@ Another role for the villain would be the dispatcher, who sends the hero on thei
 
 The roles and influences that villains can have over a narrative can also be transferred over to other characters – to continue their role in the narrative through another character. The legacy of the villain is often transferred through that of [bloodlines](https://en.wikipedia.org/wiki/Bloodline) (family) or a devoted follower. For example, if a [dragon](https://en.wikipedia.org/wiki/Dragon) played the role of a villain but was killed by the hero, another character (such as the dragon's sister) might take on the legacy of the previous villain and pursue the hero out of revenge.
 
-### Lorem Ipsum
-
-
+#### Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non sapien velit. Etiam eu pellentesque sapien. Phasellus eleifend libero eu rutrum lacinia. Praesent nisi ipsum, dignissim finibus feugiat id, imperdiet a justo. Curabitur sit amet magna massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis a tortor ut ex suscipit cursus non sit amet felis. Nam vel consequat velit. In finibus mauris ut orci lobortis, a ullamcorper diam mattis.
 
@@ -48,6 +46,6 @@ Cras sapien orci, dignissim sed gravida et, lacinia non dolor. Quisque sit amet 
 
 Pellentesque lacinia euismod magna et tempor. Praesent sed porta mauris. Sed purus mauris, sollicitudin eu urna in, placerat finibus nisi. Integer feugiat nisl at tortor vestibulum tristique. In pellentesque euismod sem, a aliquam ex tempor sit amet. Donec dictum venenatis ipsum, in fringilla lorem congue ac. Aenean tempor egestas felis, non bibendum lorem vestibulum ut. Cras ex nibh, ornare sed tempus eget, rhoncus ac sapien. Sed sagittis eleifend justo, quis rhoncus nulla semper nec. Vestibulum vel ante non erat tempus gravida ac sagittis dui. Nulla ultricies dapibus leo sed laoreet. Morbi libero purus, laoreet vitae quam non, viverra vulputate metus.
 
-Donec tortor metus, luctus quis turpis vitae, placerat interdum sapien. Donec volutpat, odio quis semper cursus, quam felis scelerisque dolor, sagittis vehicula quam arcu sit amet ipsum. Morbi porta luctus neque ac gravida. Aliquam rutrum rutrum sapien, sit amet sollicitudin dolor tristique at. Maecenas placerat magna at lectus varius molestie. Quisque vel euismod metus, a posuere erat. Fusce quis lectus arcu.
+Donec tortor metus, luctus quis turpis vitae, placerat interdum sapien. Donec volutpat, odio quis semper cursus, quam felis scelerisque dolor, sagittis vehicula quam arcu sit amet ipsum. Morbi porta luctus neque ac gravida. Aliquam rutrum rutrum sapien, sit amet sollicitudin dolor tristique at. Maecenas placerat magna at lectus varius molestie. Quisque vel euismod metus, a posuere erat. Fusce quis lectus arcu. A sentence about cheese.
 
 Aliquam eu elit aliquam, vulputate massa nec, lobortis erat. In blandit arcu cursus risus auctor consectetur. Vivamus congue lorem aliquet eros venenatis varius. Ut malesuada, magna et eleifend pharetra, diam tellus semper ante, in viverra libero purus sed enim. Ut auctor commodo vehicula. Nulla facilisi. Phasellus risus ex, fringilla vel accumsan vitae, auctor non sem. Proin a leo tincidunt, condimentum est et, mattis dui. Nullam nec vestibulum odio. Aliquam sit amet felis nec dui luctus porta. Duis sollicitudin, libero dignissim dignissim fermentum, mi tellus hendrerit dui, sed accumsan nisi massa non felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Praesent tristique quam tincidunt, luctus odio nec, facilisis sapien.
