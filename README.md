@@ -16,3 +16,19 @@ find_missing([2,4,6,10])
 # 8
 ```
 {% endcode %}
+
+***
+
+{% hint style="info" %}
+asdfasdf
+
+asdfasdf
+
+asdfasdf
+{% endhint %}
+
+{% swagger method="get" path="" baseUrl="" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
