@@ -5,3 +5,4 @@
   * [The hero](our-journey-begins/the-hero.md)
   * [The Villain](our-journey-begins/the-villain.md)
   * [Sacrifice](our-journey-begins/sacrifice.md)
+  * [Hardship](our-journey-begins/hardship.md)
