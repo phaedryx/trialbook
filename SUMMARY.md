@@ -6,4 +6,6 @@
   * [The Villain](our-journey-begins/the-villain.md)
   * [Sacrifice](our-journey-begins/sacrifice.md)
   * [Hardship](our-journey-begins/hardship.md)
-  * [A new Page](our-journey-begins/a-new-page.md)
+  * [A New Page](our-journey-begins/a-new-page.md)
+  * [An Inserted Page](our-journey-begins/an-inserted-page.md)
+  
