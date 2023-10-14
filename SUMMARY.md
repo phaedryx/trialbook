@@ -12,4 +12,5 @@
   * [2023](architecture-meetings/2023/README.md)
     * [February](architecture-meetings/2023/february/README.md)
       * [February-7-2023](architecture-meetings/2023/february/february-7-2023.md)
-    * [March](architecture-meetings/2023/march.md)
+    * [March](architecture-meetings/2023/march/README.md)
+      * [March-3-2023](architecture-meetings/2023/march/march-3-2023.md)
