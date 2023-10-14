@@ -8,4 +8,4 @@
   * [Hardship](our-journey-begins/hardship.md)
   * [A New Page](our-journey-begins/a-new-page.md)
   * [An Inserted Page](our-journey-begins/an-inserted-page.md)
-  
+* [Architecture Meetings](architecture-meetings.md)
