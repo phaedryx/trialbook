@@ -1,43 +1,9 @@
 # Architecture Meetings
 
-{% tabs %}
-{% tab title="First Tab" %}
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p></p><table><thead><tr><th align="center">Sun</th><th align="center">Mon</th><th align="center">Tue</th><th align="center">Wed</th><th align="center">Thu</th><th align="center">Fri</th><th align="center">Sat</th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr><tr><td align="center">5</td><td align="center">6</td><td align="center">7</td><td align="center">8</td><td align="center">9</td><td align="center">10</td><td align="center">11</td></tr><tr><td align="center">12</td><td align="center">13</td><td align="center">14</td><td align="center">15</td><td align="center">16</td><td align="center">17</td><td align="center">18</td></tr><tr><td align="center">19</td><td align="center">20</td><td align="center">21</td><td align="center">22</td><td align="center">23</td><td align="center">24</td><td align="center">25</td></tr><tr><td align="center">26</td><td align="center">27</td><td align="center">28</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table> |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|     |     |     |  1  |  2  |  3  |  4  |
-|  5  |  6  |  7  |  8  |  9  |  10 |  11 |
-|  12 |  13 |  14 |  15 |  16 |  17 |  18 |
-|  19 |  20 |  21 |  22 |  23 |  24 |  25 |
-|  26 |  27 |  28 |     |     |     |     |
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|     |     |     |  1  |  2  |  3  |  4  |
-|  5  |  6  |  7  |  8  |  9  |  10 |  11 |
-|  12 |  13 |  14 |  15 |  16 |  17 |  18 |
-|  19 |  20 |  21 |  22 |  23 |  24 |  25 |
-|  26 |  27 |  28 |     |     |     |     |
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+{% embed url="https://meet.google.com/epc-orau-rxo" %}
