@@ -1,3 +1,43 @@
 # Architecture Meetings
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+{% tabs %}
+{% tab title="First Tab" %}
+
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |  1  |  2  |  3  |  4  |
+|  5  |  6  |  7  |  8  |  9  |  10 |  11 |
+|  12 |  13 |  14 |  15 |  16 |  17 |  18 |
+|  19 |  20 |  21 |  22 |  23 |  24 |  25 |
+|  26 |  27 |  28 |     |     |     |     |
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |  1  |  2  |  3  |  4  |
+|  5  |  6  |  7  |  8  |  9  |  10 |  11 |
+|  12 |  13 |  14 |  15 |  16 |  17 |  18 |
+|  19 |  20 |  21 |  22 |  23 |  24 |  25 |
+|  26 |  27 |  28 |     |     |     |     |
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
