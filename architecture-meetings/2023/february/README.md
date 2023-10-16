@@ -1,3 +1,9 @@
 # February
 
-<table><thead><tr><th width="60" align="right">Sun</th><th width="60" align="right">Mon</th><th width="60" align="right">Tue</th><th width="60" align="right">Wed</th><th width="60" align="right">Thu</th><th width="60" align="right">Fri</th><th width="60" align="right">Sat</th></tr></thead><tbody><tr><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">1</td><td align="right">2</td><td align="right">3</td><td align="right">4</td></tr><tr><td align="right">5</td><td align="right">6</td><td align="right"><a href="february-7-2023.md"><mark style="color:orange;"><strong>7</strong></mark></a></td><td align="right">8</td><td align="right">9</td><td align="right">10</td><td align="right">11</td></tr><tr><td align="right">12</td><td align="right">13</td><td align="right">14</td><td align="right">15</td><td align="right">16</td><td align="right">17</td><td align="right">18</td></tr><tr><td align="right">19</td><td align="right">20</td><td align="right">21</td><td align="right">22</td><td align="right">23</td><td align="right">24</td><td align="right">25</td></tr><tr><td align="right">26</td><td align="right">27</td><td align="right">28</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td></tr></tbody></table>
+| Sun | Mon |                         Tue | Wed | Thu | Fri | Sat |
+| --: | --: | --------------------------: | --: | --: | --: | --: |
+|     |     |                             |   1 |   2 |   3 |   4 |
+|   5 |   6 | [**7**](february-7-2023.md) |   8 |   9 |  10 |  11 |
+|  12 |  13 |                          14 |  15 |  16 |  17 |  18 |
+|  19 |  20 |                          21 |  22 |  23 |  24 |  25 |
+|  26 |  27 |                          28 |     |     |     |     |
